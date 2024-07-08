@@ -128,6 +128,9 @@ git clone https://github.com/kunalnamdas/SubHunter.git
 cd SubHunter
 # Optionally, set up a virtual environment
 pip install -r requirements.txt
+#run
+python SubHunter.py -d google.com
+
 
 
 
