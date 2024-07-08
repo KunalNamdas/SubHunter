@@ -23,6 +23,7 @@ It is designed for security researchers and penetration testers to discover subd
 
 ### DorkHunter image
 ![DorkHunter image](SubHunter.png)
+![DorkHunter image](image.png)
 
 ## How It Works
 
