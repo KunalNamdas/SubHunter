@@ -124,7 +124,7 @@ Open a pull request to the main repository.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/SubHunter.git
+git clone https://github.com/kunalnamdas/SubHunter.git
 cd SubHunter
 # Optionally, set up a virtual environment
 pip install -r requirements.txt
